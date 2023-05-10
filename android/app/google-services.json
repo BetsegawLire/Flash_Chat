@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "351025755016",
+    "project_id": "flash-chat-2e210",
+    "storage_bucket": "flash-chat-2e210.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:351025755016:android:330a54fb3f1db9f48bc03d",
+        "android_client_info": {
+          "package_name": "com.BetsegawLire.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "351025755016-e2c45ngtqc5sg4nk4fdk3niehpkej72v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7TmqZ9YLbEdgu0HAiqeEr6sHmc06Z2R4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "351025755016-e2c45ngtqc5sg4nk4fdk3niehpkej72v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
